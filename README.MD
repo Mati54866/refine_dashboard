@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Ant_Design-black?style=for-the-badge&logoColor=white&logo=antdesign&color=0170FE" alt="antd" />
   </div>
 
-  <h3 align="center">A CRM Dashboard</h3>
+  <h3 align="center"> CRM Dashboard</h3>
 
 
 </div>
