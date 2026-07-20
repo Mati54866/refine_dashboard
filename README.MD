@@ -25,6 +25,8 @@
 
 A comprehensive CRM dashboard built with React, featuring secure authentication, interactive charts, sales management, and a fully functional Kanban board with real-time updates. This project demonstrates modern web development practices with a focus on clean UI/UX and responsive design.
 
+> 📌 **Note:** This project was built following a tutorial and customized for learning and portfolio purposes.
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **React.js** - Frontend library
